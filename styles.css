@@ -1,0 +1,28 @@
+body{
+     background: linear-gradient(to right, #62cff4, #2c67f2);
+}
+
+.title{
+    text-align: center;
+    color: white;
+    font-size: 48px;
+}
+
+#location-form{
+    text-align: center;
+}
+#location-input{
+    height: 30px;
+    width: 20%;
+}
+.weather-button{
+    height: 30px;
+    background-color: orange;
+}
+
+#weather-data{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+    color: white;
+}
